@@ -19,6 +19,13 @@
   justify-content: space-evenly;
   align-items: center;
 }
+#container2 {
+  background-color: black;
+  height: 70vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
 
 .tile {
   height: 200px;
